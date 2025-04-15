@@ -1,6 +1,6 @@
 # 📚 Selectivity Exam Downloader / Descarregador d'Exàmens de Selectivitat
 
-## 🇪🇸 Català  
+## Català  
 
 ### Què és això?  
 Una eina que descarrega tots els exàmens de selectivitat per fer-te un dossier amb tots els exàmens junts, així no cal anar imprimint un per un i es pot fer tot en un. Principalment l'he creada per mi ja que en res he de fer aquesta prova i m'anirà bé tenir un recull
@@ -53,7 +53,7 @@ subject_patterns = {
 
 ---
 
-## 🇬🇧 English  
+## English  
 
 ### What is this?  
 A tool that downloads all university entrance exams and compiles them into a single dossier, so you don't have to print them one by one. I mainly created it for myself since I have to take this exam soon, and it will be helpful to have everything in one place.
